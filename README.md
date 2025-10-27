@@ -6,7 +6,7 @@ It includes both analog and a few digital modules, testbenches, and supporting f
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Folder / File | Description |
 |----------------|-------------|
@@ -24,7 +24,7 @@ It includes both analog and a few digital modules, testbenches, and supporting f
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project focuses on designing and validating an **Analog-to-Digital Converter** with modular analog and digital blocks.  
 The design includes:
@@ -46,8 +46,7 @@ The design includes:
 
 Integrate ADC into mixed-signal SoC environment
 Optimize power and speed performance
-###
-👤 Author
+### Author
 
 Rose Maina
 B.Sc. Electrical and Electronics Engineering
