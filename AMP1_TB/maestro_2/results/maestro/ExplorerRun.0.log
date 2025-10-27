@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed May 14 14:14:59 2025 
+Best design point: 1
+Design specs: 
+	TERASCALE_srv1_AMP1_TB_1	corner	Nominal - 
+	ymax((((VT("outcsa") - VDC("/outcsa")))))		Error	No
+	((1500 * rmsNoise(1 1000000000)) / ymax((VT("outcsa") - VDC("/outcsa"))))		36.7
+	rms(((VT("outcsa") - VDC("/outcsa"))))		Error	No
+	riseTime(riseTime((VT("outcsa") - VDC("/outcsa")) 0 nil ymax ((VT("outcsa") - VDC("/outcsa"))) nil 10 95 nil "time") 0 nil (VT("outcsa") - VDC("/outcsa")) nil 10 95 nil "time")		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 6
+Number of simulation errors: 18
+ExplorerRun.0 completed. 
+Current time: Wed May 14 14:20:01 2025 

@@ -1,0 +1,38 @@
+# start: 2025/05/14 11:43:09
+# app: /adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/dfII/bin/64bit/vds
+# cwd: '/home/rmaina'
+# hostname: ipe-iperic-simsrv1
+# pid: 17886
+# ppid: 15583
+# load: 1min(421536), 5min(324000), 15min(283104)
+# total-mem: 188GB
+# free-ram: 51GB
+# build: version 6.1.8-64b.IC6.1.8-64b.500.14 09/22/2020 18:49 (sjfhw316) $
+# compiled: Aug 18 2020 23:38:24
+# libpsf.so: '/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/lib/64bit/libpsf.so'
+# libsrr.so: '/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/lib/64bit/libsrr.so'
+# ENVVAR CDS_AHDLCMI_ENABLE=NO
+# ENVVAR CDS_ARCH=lnx86
+# ENVVAR CDS_AUTO_64BIT=ALL
+# ENVVAR CDS_DIR=/adl/tools/cadence/2020_2021/IC_6.1.8.140
+# ENVVAR CDS_EXT=/adl/tools/cadence/2020_2021/QUANTUS_20.12.000
+# ENVVAR CDS_GENUS=/adl/tools/cadence/2020_2021/GENUS_19.14.000
+# ENVVAR CDS_HOME=/adl/tools/cadence/2020_2021/IC_6.1.8.140
+# ENVVAR CDS_INNOVUS=/adl/tools/cadence/2020_2021/INNOVUS_20.11.000
+# ENVVAR CDS_INST_DIR=/adl/tools/cadence/2020_2021/IC_6.1.8.140
+# ENVVAR CDS_INST_ROOT=/adl/tools/cadence/2020_2021/IC_6.1.8.140
+# ENVVAR CDS_LANG=C
+# ENVVAR CDS_LC_MONETARY=de_DE.UTF-8
+# ENVVAR CDS_LC_NUMERIC=de_DE.UTF-8
+# ENVVAR CDS_LC_TIME=de_DE.UTF-8
+# ENVVAR CDS_MPS_SESSION=virtuoso23904
+# ENVVAR CDS_Netlisting_Mode=Analog
+# ENVVAR CDS_QT_GRAPHICSSYSTEM=nograph
+# ENVVAR CDS_QUIET=
+# ENVVAR CDS_SET_LOCALE=C
+# ENVVAR CDS_SPECTRE=/adl/tools/cadence/2020_2021/SPECTRE_20.10.068
+# ENVVAR CDS_USE_XVFB=1
+# ENVVAR CDS_W3264_LIBPATH=/adl/tools/cadence/2020_2021/IC_6.1.8.140/oa_v22.60.043/lib/linux_rhel60_64/opt::/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/dfII/lib/64bit:/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/sev/lib/64bit:/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/lib/64bit:/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/lib:/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/hdf5/lib/64bit::/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/lz4/lib/64bit:/adl/tools/cadence/2020_2021/XCELIUM_20.09.001/tools.lnx86/lib/64bit:/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/Qt/v5/64bit/lib:/lib64
+# ENVVAR CDS_XVFB_UD=localhost:10.0
+# ENVVAR USE_RESISTANCE_MULTIPLIERS=TRUE
+[000000] qp:[QPCreateDataSet.cpp:140] Error: Cannot create data to group: '/tran-tran/1'

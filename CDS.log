@@ -1,0 +1,281 @@
+\# Program start time:     UTC 2025.10.27 05:21:57.427
+\# Local time: CET (UTC+01:00) 2025.10.27 06:21:57.427
+\o Program:		@(#)$CDS: virtuoso version 6.1.8-64b 09/22/2020 19:17 (cpgsrv11) $
+\o Hierarchy:		/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools.lnx86/dfII/
+\o Sub version:		sub-version  IC6.1.8-64b.500.14  (64-bit addresses)
+\# Command line:	/adl/tools/cadence/2020_2021/IC_6.1.8.140/tools/dfII/bin/64bit/virtuoso
+\# Host name (type):	ipe-iperic-simsrv1 (x86_64)
+\# Operating system:	Linux 4.15.0-213-generic #224-Ubuntu SMP Mon Jun 19 13:30:12 UTC 2023
+\# Linux /etc/issue:	Ubuntu 18.04.6 LTS \n \l
+\# X display name (WxH):	:52.0 (1280x697)
+\# Available geometry:			TL(0:31) BR(1279:647)
+\# X server:			The X.Org Foundation
+\# Depth of Visual (Root):	24 (24)
+\# Number of Planes Used:	24
+\# X version:		11.0 (vendor release 70000000)
+\# X resource pool:	base 0x3000000, mask 0x1fffff (2097151), shift 0
+\# 			current id 0x0, current max 0x1ffffa (2097146)
+\# Max data seg size:	     unlimited
+\# Max process size:	     unlimited
+\# Initial sbrk value:	        541 MB
+\# Available memory:	      7,729 MB
+\# System memory:	    194,139 MB
+\# Maximum memory size:	    193,866 MB
+\# Max mem available:	      7,997 MB
+\# Initial memory used:	        268 MB
+\#        process size:	      3,919 MB
+\# Thread usage limits (effective/default):	maxthreads 768171/768171 maxload 48.00/48.00
+\# Qt version:		5.9.1
+\# Window Manager:	other
+\# User Name:		rmaina
+\o Working Directory:	ipe-iperic-simsrv1:/home/rmaina
+\# Process Id:		3143
+\o 
+\o COPYRIGHT (C) 1992-2020  CADENCE DESIGN SYSTEMS INC.  ALL RIGHTS RESERVED.
+\o           (C) 1992-2020  UNIX SYSTEMS Laboratories INC.,
+\o                          Reproduced with permission.
+\o 
+\o This Cadence Design Systems program and online documentation are
+\o proprietary/confidential information and may be disclosed/used only
+\o as authorized in a license agreement controlling such use and disclosure.
+\o 
+\o           RESTRICTED RIGHTS NOTICE (SHORT FORM)
+\o Use/reproduction/disclosure is subject to restriction
+\o set forth at FAR 1252.227-19 or its equivalent.
+\# Available memory:          7,699 MB at UTC 2025.10.27 05:22:19.395
+\# Memory report: Maximum memory size now 8,051 MB at UTC 2025.10.27 05:22:19.396
+\# Thread usage report: 49 active threads, active load 1.00 at UTC 2025.10.27 05:22:19.396
+\# Memory report: using         376 MB, process size 4,055 MB at UTC 2025.10.27 05:22:24.774
+\o Loading geView.cxt 
+\o Loading menuBuilder.cxt 
+\o Loading schView.cxt 
+\o Loading selectSv.cxt 
+\o Loading wireEdit.cxt 
+\o Loading pte2.cxt 
+\o Loading xlUI.cxt 
+\o Loading auCore.cxt 
+\o Loading vhdl.cxt 
+\# Memory report: Maximum memory size now 8,231 MB at UTC 2025.10.27 05:22:50.752
+\o Loading seismic.cxt 
+\o Loading ci.cxt 
+\o Loading ams.cxt 
+\o Loading adexlDM.cxt 
+\o Loading cpf.cxt 
+\o Loading cli.cxt 
+\o Loading lp.cxt 
+\o Virtuoso Framework License (111) was checked out successfully. Total checkout time was 0.03s.
+\o ......................................................................................
+\o            ams AG hitkit v.ams_4.11
+\o ......................................................................................
+\o COPYRIGHT (c) 2013 Full Service Foundry @ ams AG.  ALL RIGHTS RESERVED
+\o This hitkit and attached documentation are confidential information and may 
+\o only be used as authorized by the hitkit license agreement.
+\o ......................................................................................
+\e *Error* eval: unbound variable - ddsvHelpMenu
+\e *Error* load: error while loading file - "/adl/design_kits/AMS/c18-h18-hitkit411//cds/HK_ALL/skill/ams_env.ile" at line 0
+\e *Error* load: error while loading file - "/adl/design_kits/AMS/c18-h18-hitkit411//cds/HK_ALL/skill/ams_env.il" at line 14
+\e *Error* hiInsertMenuItem: argument #1 should be a defstruct (type template = "rgg") - nil
+\e *Error* load: error while loading file - "/adl/design_kits/AMS/c18-h18-hitkit411//cds/HK_H18/Skill/AMS_loadESDGenerator.il" at line 32
+\e *Error* load: error while loading file - "/adl/design_kits/AMS/c18-h18-hitkit411//cds/HK_H18/Skill/AMS_libInit.il" at line 74
+\e *Error* load: error while loading file - "/adl/design_kits/AMS/c18-h18-hitkit411//cds/HK_H18/skill/ams_callBacks.il" at line 10
+\o No mx check
+\o 2025/10/27 06:23:06 WARNING This OS does not appear to be a Cadence supported Linux configuration.
+\o 2025/10/27 06:23:06 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
+\# Memory report: Maximum memory size now 8,053 MB at UTC 2025.10.27 05:23:20.409
+\# Memory report: Maximum memory size now 8,272 MB at UTC 2025.10.27 05:23:33.432
+\o 2025/10/27 06:23:38 WARNING This OS does not appear to be a Cadence supported Linux configuration.
+\o 2025/10/27 06:23:38 For more info, please run CheckSysConf in <cdsRoot/tools.lnx86/bin/checkSysConf <productId>
+\p hitkit: ams_4.11  Tech: h18a7  User: rmaina 
+\a _treeSetOpcGUI(t)
+\r t
+\# Memory report: using         478 MB, process size 4,143 MB at UTC 2025.10.27 05:24:03.898
+\# Memory report: Maximum memory size now 8,002 MB at UTC 2025.10.27 05:25:33.897
+\# Memory report: Maximum memory size now 8,218 MB at UTC 2025.10.27 05:25:43.898
+\# Memory report: Maximum memory size now 8,044 MB at UTC 2025.10.27 05:25:53.898
+\# Memory report: Maximum memory size now 8,258 MB at UTC 2025.10.27 05:27:13.898
+\# Memory report: Maximum memory size now 8,075 MB at UTC 2025.10.27 05:27:23.898
+\# Memory report: Maximum memory size now 8,267 MB at UTC 2025.10.27 05:27:33.898
+\# Memory report: Maximum memory size now 8,090 MB at UTC 2025.10.27 05:28:03.898
+\# Memory report: Maximum memory size now 8,299 MB at UTC 2025.10.27 05:30:53.898
+\# Memory report: Maximum memory size now 8,118 MB at UTC 2025.10.27 05:31:03.898
+\# Memory report: Maximum memory size now 8,291 MB at UTC 2025.10.27 05:31:43.898
+\# Memory report: Maximum memory size now 8,047 MB at UTC 2025.10.27 05:32:33.897
+\# Memory report: Maximum memory size now 8,221 MB at UTC 2025.10.27 05:32:53.897
+\# Memory report: Maximum memory size now 8,000 MB at UTC 2025.10.27 05:34:23.898
+\# Memory report: Maximum memory size now 8,248 MB at UTC 2025.10.27 05:35:33.898
+\# Memory report: Maximum memory size now 8,078 MB at UTC 2025.10.27 05:36:03.898
+\# Memory report: Maximum memory size now 8,248 MB at UTC 2025.10.27 05:55:13.898
+\# Memory report: Maximum memory size now 8,050 MB at UTC 2025.10.27 05:55:33.898
+\# Memory report: Maximum memory size now 8,216 MB at UTC 2025.10.27 05:55:53.898
+\# Memory report: Maximum memory size now 8,009 MB at UTC 2025.10.27 05:57:03.898
+\# Memory report: Maximum memory size now 8,215 MB at UTC 2025.10.27 05:57:23.897
+\# Memory report: Maximum memory size now 8,009 MB at UTC 2025.10.27 05:58:53.898
+\# Memory report: Maximum memory size now 8,172 MB at UTC 2025.10.27 05:59:43.898
+\# Memory report: Maximum memory size now 7,980 MB at UTC 2025.10.27 06:00:53.898
+\# Memory report: Maximum memory size now 8,164 MB at UTC 2025.10.27 06:01:03.898
+\# Memory report: Maximum memory size now 7,999 MB at UTC 2025.10.27 06:01:43.898
+\# Memory report: Maximum memory size now 8,196 MB at UTC 2025.10.27 06:01:53.285
+\i ddsServOpen("TERASCALE_srv1" "AMP1_TB" "schematic" "edit" nil)
+\o Loading schematic.cxt 
+\o Loading ddui.cxt 
+\o Loading vb.cxt 
+\o Loading nt.cxt 
+\o Loading oi.cxt 
+\o Loading see.cxt 
+\o Loading treeAssistant.cxt 
+\o Loading asst.cxt 
+\# Memory report: Maximum memory size now 8,027 MB at UTC 2025.10.27 06:02:20.831
+\o Loading hsm.cxt 
+\o Loading oasis.cxt 
+\o Loading simui.cxt 
+\a when(dwindow('oiAssistant1) hiMapWindow(dwindow('oiAssistant1)))
+\r t
+\a when(dwindow('treeAssistant1) hiMapWindow(dwindow('treeAssistant1)))
+\r t
+\# Memory report: Maximum memory size now 8,209 MB at UTC 2025.10.27 06:02:40.897
+\a _deUpdateMenu('schematicTools 2)
+\r t
+\a deInstallApp(getCurrentWindow() "analogArtist-Schematic")
+\o Loading vdsil.cxt 
+\o Loading dal.cxt 
+\o Loading awv.cxt 
+\o Loading socket.cxt 
+\o Loading analog.cxt 
+\o Loading par.cxt 
+\o Loading asimenv.cxt 
+\o Loading alvs.cxt 
+\o Loading caa.cxt 
+\o Loading amps.cxt 
+\o Loading adexlCore.cxt 
+\o Loading adexl.cxt 
+\o Loading lx.cxt 
+\o Loading lce.cxt 
+\o Loading le.cxt 
+\o Loading rte.cxt 
+\o Loading te.cxt 
+\o Loading schHDL.cxt 
+\o Loading viva.cxt 
+\# Memory report: using         593 MB, process size 4,325 MB at UTC 2025.10.27 06:02:59.023
+\o Loading spectrei.cxt 
+\o Loading cdf.cxt 
+\o Loading devCheck.cxt 
+\o Loading relXpert.cxt 
+\# Memory report: Maximum memory size now 7,991 MB at UTC 2025.10.27 06:03:15.063
+\r t
+\# Memory report: Maximum memory size now 8,209 MB at UTC 2025.10.27 06:03:54.898
+\# Memory report: Maximum memory size now 8,016 MB at UTC 2025.10.27 06:04:04.898
+\# Memory report: Maximum memory size now 8,186 MB at UTC 2025.10.27 06:04:24.898
+\# Memory report: Maximum memory size now 7,990 MB at UTC 2025.10.27 06:04:54.898
+\# Memory report: Maximum memory size now 8,158 MB at UTC 2025.10.27 06:05:44.898
+\# Memory report: Maximum memory size now 7,948 MB at UTC 2025.10.27 06:06:54.898
+\# Memory report: Maximum memory size now 8,186 MB at UTC 2025.10.27 06:07:14.898
+\# Memory report: Maximum memory size now 7,949 MB at UTC 2025.10.27 06:07:34.898
+\# Memory report: Maximum memory size now 8,177 MB at UTC 2025.10.27 06:08:14.897
+\# Memory report: Maximum memory size now 7,978 MB at UTC 2025.10.27 06:08:44.898
+\# Memory report: Maximum memory size now 8,150 MB at UTC 2025.10.27 06:09:04.898
+\# Memory report: Maximum memory size now 7,984 MB at UTC 2025.10.27 06:09:54.898
+\# Memory report: Maximum memory size now 8,245 MB at UTC 2025.10.27 06:10:24.898
+\# Memory report: Maximum memory size now 8,071 MB at UTC 2025.10.27 06:10:34.898
+\# Memory report: Maximum memory size now 8,256 MB at UTC 2025.10.27 06:11:54.898
+\# Memory report: Maximum memory size now 8,015 MB at UTC 2025.10.27 06:12:25.898
+\# Memory report: Maximum memory size now 8,191 MB at UTC 2025.10.27 06:12:45.898
+\# Memory report: Maximum memory size now 8,029 MB at UTC 2025.10.27 06:14:15.898
+\a sevLoadState('sevSession1)
+\p  
+\a hiiSetCurrentForm('sevLoadForm1)
+\r t
+\a hiFormDone(sevLoadForm1)
+\o WARNING (ADE-1073): No saved state exists for lib (TERASCALE_srv1): cell (AMP1_TB): simulator (spectre).
+\r t
+\a hiFormDone(sevLoadForm1)
+\o WARNING (ADE-1073): No saved state exists for lib (TERASCALE_srv1): cell (AMP1_TB): simulator (spectre).
+\r t
+\a hiFormDone(sevLoadForm1)
+\o WARNING (ADE-1073): No saved state exists for lib (TERASCALE_srv1): cell (AMP1_TB): simulator (spectre).
+\r t
+\# Memory report: Maximum memory size now 8,189 MB at UTC 2025.10.27 06:16:35.897
+\# Memory report: Maximum memory size now 8,007 MB at UTC 2025.10.27 06:17:55.898
+\# Memory report: Maximum memory size now 8,201 MB at UTC 2025.10.27 06:18:55.898
+\a hiFormDone(sevLoadForm1)
+\o WARNING (ADE-1073): No saved state exists for lib (TERASCALE_srv1): cell (AMP1_TB): simulator (spectre).
+\r t
+\a hiFormCancel(sevLoadForm1) 
+\r t
+\r nil
+\# Memory report: Maximum memory size now 7,946 MB at UTC 2025.10.27 06:19:14.898
+\a sevLoadState('sevSession1)
+\p  
+\# Memory report: Maximum memory size now 8,195 MB at UTC 2025.10.27 06:19:34.897
+\a asiUnixBrowser( hiGetCurrentForm() _amsExpandPath(hiGetCurrentForm()->stateSaveDir->value) 'stateSaveDir "path" 'nil 'directoryOnly)
+\r nil
+\a (hiFileDialogSetSelection UnixsevLoadForm1 '("/home/rmaina/.artist_states/TERASCALE_srv1" "") 'done)
+\r t
+\a (hiFileDialogDone UnixsevLoadForm1 t)
+\r t
+\# Memory report: Maximum memory size now 7,989 MB at UTC 2025.10.27 06:20:24.898
+\a sevLoadForm1->components->simulationFiles->value =  t
+\r t
+\a sevLoadForm1->components->analyses->value =  t
+\r t
+\a sevLoadForm1->components->analyses->value =  t
+\r t
+\a sevLoadForm1->components->simulationFiles->value =  t
+\r t
+\a (_sevUpdateLoadStateForm 'sevSession1 'components 'all)
+\r t
+\# Memory report: Maximum memory size now 8,160 MB at UTC 2025.10.27 06:20:44.301
+\a (_sevUpdateLoadStateForm 'sevSession1 'components 'all)
+\r t
+\a _hiFormApplyCB(sevLoadForm1)
+\o WARNING (ADE-1073): No saved state exists for lib (TERASCALE_srv1): cell (AMP1_TB): simulator (spectre).
+\r t
+\a hiFormDone(sevLoadForm1)
+\o WARNING (ADE-1073): No saved state exists for lib (TERASCALE_srv1): cell (AMP1_TB): simulator (spectre).
+\r t
+\a hiFormCancel(sevLoadForm1)
+\r t
+\# Memory report: Maximum memory size now 7,939 MB at UTC 2025.10.27 06:20:54.142
+\r nil
+\# Memory report: Maximum memory size now 8,139 MB at UTC 2025.10.27 06:21:33.897
+\# Memory report: Maximum memory size now 7,960 MB at UTC 2025.10.27 06:21:53.897
+\# Memory report: Maximum memory size now 8,144 MB at UTC 2025.10.27 06:22:03.898
+\# Memory report: Maximum memory size now 7,947 MB at UTC 2025.10.27 06:22:13.897
+\# Memory report: Maximum memory size now 8,125 MB at UTC 2025.10.27 06:22:23.898
+\# Memory report: Maximum memory size now 7,959 MB at UTC 2025.10.27 06:23:13.898
+\a hiCloseWindow(swindow(2))
+\# Displaying modal dbox "sevblockingDialogBox", title "Save State Query"
+\p  
+\a hiDBoxCancel(sevblockingDialogBox)
+\r t
+\r t
+\a _hiSetCurrentWinNum(2)
+\r t
+\# Memory report: Maximum memory size now 8,196 MB at UTC 2025.10.27 06:23:33.898
+\# Memory report: Maximum memory size now 7,953 MB at UTC 2025.10.27 06:23:43.898
+\# Memory report: Maximum memory size now 8,168 MB at UTC 2025.10.27 06:23:53.898
+\# Memory report: Maximum memory size now 7,963 MB at UTC 2025.10.27 06:24:03.897
+\# Memory report: Maximum memory size now 8,171 MB at UTC 2025.10.27 06:24:23.898
+\# Memory report: Maximum memory size now 8,001 MB at UTC 2025.10.27 06:26:03.898
+\# Memory report: Maximum memory size now 8,173 MB at UTC 2025.10.27 06:26:13.898
+\a hiCloseWindow(swindow(1))
+\r t
+\a hiResizeWindow(window(1) list(116:104 863:254))
+\r t
+\a hiQuit()
+\# Displaying modal dbox "hiQuitDBox", title "Quit"
+\p  
+\# Memory report: Maximum memory size now 7,981 MB at UTC 2025.10.27 06:27:03.898
+\a hiDBoxOK(hiQuitDBox)
+\r t
+\p  
+\a hiiSetCurrentForm('techSaveDrmForm)
+\r t
+\# Memory report: Maximum memory size now 8,199 MB at UTC 2025.10.27 06:27:23.897
+\a techSaveDrmForm->fileField->value="TERASCALE simsrv1"
+\r "TERASCALE simsrv1"
+\a hiFormDone(techSaveDrmForm)
+\o Saved the display information to file 'TERASCALE simsrv1'.
+\r t
+\o 
+\# Memory report: on exit            683 MB, process size 4,502 MB at UTC 2025.10.27 06:27:59.760
+\# Memory report: peak usage         683 MB, process size 4,508 MB

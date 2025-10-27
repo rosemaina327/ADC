@@ -1,0 +1,23 @@
+//Revision 4
+//NOTE
+// Default austriamicrosystems template for AMS Designer
+// Note:
+//      Please remember to replace the Library, Cell, and View fields
+//      for the Top Cell with the actual names used by your design.
+//END_NOTE
+
+config ADC_tb_mm;
+design TERASCALE2.ADC_tb_mm:schematic;
+
+const digital behavioral, functional, schematic, symbol;
+const analog veriloga, functional, schematic, symbol;
+liblist basic, analogLib;
+
+viewlist verilogams, veriloga, behavioral, functional, \module , schematic, cmos_sch, spectre, symbol;
+stoplist symbol, spectre;
+
+
+cell CORELIB_HV.BUFX2_HV binding :cmos_sch;
+
+
+endconfig

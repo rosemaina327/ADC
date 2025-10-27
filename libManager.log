@@ -1,0 +1,189 @@
+\o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/15/2020 20:25 (sjfhw492) $
+\o Sub version:		sub-version  s146 
+\o Arguments:		-mpssession virtuoso3143 -mpshost ipe-iperic-simsrv1 
+\o Working Directory:	ipe-iperic-simsrv1:/home/rmaina
+\o 64-bit offsets
+\o Qt version: 		5.9.1
+\o Log file is "/home/rmaina/libManager.log".
+\o Opening libManager window.
+\a nrResizeWindow(cdsLibManager list(0 31 1366 636))
+\a nrSetCurrentWindow(cdsLibManager)
+\o changeWorkingDir("/home/rmaina") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o MPS service: map window
+\o Library Manager customization server connected.
+\a nrResizeWindow(cdsLibManager list(0 31 1280 588))
+\a cdsLibManager->libListBox->value = "TERASCALE_srv1"
+\a cdsLibManager->libLineEdit->value = "TERASCALE_srv1"
+\a cdsLibManager->cellListBox->value = "ADC_cmp_lay_2"
+\a cdsLibManager->cellLineEdit->value = "ADC_cmp_lay_2"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "ADC_cmp_lay_3"
+\a cdsLibManager->cellLineEdit->value = "ADC_cmp_lay_3"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellListBox->value = "ADC_digital_v"
+\a cdsLibManager->cellLineEdit->value = "ADC_digital_v"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellListBox->value = "ADC_dig2"
+\a cdsLibManager->cellLineEdit->value = "ADC_dig2"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellListBox->value = "ADC_digital_v"
+\a cdsLibManager->cellLineEdit->value = "ADC_digital_v"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellListBox->value = "ADC_tb_mm"
+\a cdsLibManager->cellLineEdit->value = "ADC_tb_mm"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "AMP1_TB"
+\a cdsLibManager->cellLineEdit->value = "AMP1_TB"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "OTA2"
+\a cdsLibManager->cellLineEdit->value = "OTA2"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "spectre_state1"
+\a cdsLibManager->viewLineEdit->value = "spectre_state1"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->fileSaveDefaultsButton->value = t
+\a saveDefaultsForm->saveAsFilename->value = ".cdsenv"
+\a saveDefaultsForm->mergeValues->value = t
+\a nrSetWindowVisibility(saveDefaultsForm "show")
+\a nrSetCurrentWindow(saveDefaultsForm)
+\a nrSetCurrentWindow(saveDefaultsForm->fileSubDialog)
+\a nrResizeWindow(saveDefaultsForm list(390 45 474 480))
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->fileSaveDefaultsButton->value = t
+\a saveDefaultsForm->saveAsFilename->value = ".cdsenv"
+\a saveDefaultsForm->mergeValues->value = t
+\a nrSetWindowVisibility(saveDefaultsForm "show")
+\a nrSetCurrentWindow(saveDefaultsForm)
+\a nrSetCurrentWindow(saveDefaultsForm->fileSubDialog)
+\a nrResizeWindow(saveDefaultsForm list(390 45 474 480))
+\a nrSetCurrentWindow(saveDefaultsForm)
+\a nrSetCurrentWindow(saveDefaultsForm->fileSubDialog)
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellListBox->value = "DAC"
+\a cdsLibManager->cellLineEdit->value = "DAC"
+\a cdsLibManager->viewListBox->value = "symbol"
+\a cdsLibManager->viewLineEdit->value = "symbol"
+\a cdsLibManager->cellListBox->value = "OTA"
+\a cdsLibManager->cellLineEdit->value = "OTA"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "OTA2"
+\a cdsLibManager->cellLineEdit->value = "OTA2"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "ADC_cmp_lay_2"
+\a cdsLibManager->cellLineEdit->value = "ADC_cmp_lay_2"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "AMP1_TB"
+\a cdsLibManager->cellLineEdit->value = "AMP1_TB"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = "spectre_state1"
+\a cdsLibManager->viewLineEdit->value = "spectre_state1"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "ADC_cmp_lay_3"
+\a cdsLibManager->cellLineEdit->value = "ADC_cmp_lay_3"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "ADC_cmp_lay"
+\a cdsLibManager->cellLineEdit->value = "ADC_cmp_lay"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "AMP2_TB"
+\a cdsLibManager->cellLineEdit->value = "AMP2_TB"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "AMP1_TB"
+\a cdsLibManager->cellLineEdit->value = "AMP1_TB"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a lmgrLogShowPopup("mainListPopup2" 101 61 2 "schematic")
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a lmgrLogShowPopup("mainListPopup2" 85 64 2 "schematic")
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\o MPS request: edit design
+\a nrListItemAction(cdsLibManager->gdmXTView 3 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "TERASCALE_srv1"
+\a cdsLibManager->libLineEdit->value = "TERASCALE_srv1"
+\a cdsLibManager->cellListBox->value = "AMP1_TB"
+\a cdsLibManager->cellLineEdit->value = "AMP1_TB"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetCurrentWindow(cdsLibManager)
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\a _lmgrCloseIconify("cdsLibManager" 1)
+\a nrSetWindowVisibility(cdsLibManager "show")
+\a nrResizeWindow(cdsLibManager list(0 31 1366 636))
+\o MPS service: shutdown
+\o libManager is exiting.
+\a exit(0)
