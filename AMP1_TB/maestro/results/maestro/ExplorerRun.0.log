@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Feb 11 16:42:18 2022 
+Best design point: 1
+Design specs: 
+	TERASCALE:AMP1_TB:1	corner	Nominal - 
+	(riseTime((VT("/outcsa") - VDC("/outcsa")) 0 nil ymax((VT("/outcsa") - VDC("/outcsa"))) nil 0 95 nil "time") / 3)		49.28n
+	ymax((VT("/outcsa") - VDC("/outcsa")))		85.94m
+	((1500 * rmsNoise(1 1000000000)) / ymax((VT("/outcsa") - VDC("/outcsa"))))		37.06
+	rms((VT("/outcsa") - VDC("/outcsa")))		23.97m
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 6
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Fri Feb 11 16:42:54 2022 
